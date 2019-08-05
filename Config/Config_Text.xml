@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_Sammaye_YnAMPEarth---x--_Map_NAME" Language="en_US">
+			<Text>YnAMP Earth128x80</Text>
+		</Replace>
+		<Replace Tag="LOC_Sammaye_YnAMPEarth---x--_Map_DESC" Language="en_US"
+>			<Text>YnAMP Earth128x80 (128x80) by Sammaye</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
