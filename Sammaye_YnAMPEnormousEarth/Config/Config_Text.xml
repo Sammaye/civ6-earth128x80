@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_Sammaye_YnAMPEnormousEarth_Map_NAME" Language="en_US">
+			<Text>YnAMP Enormous Earth</Text>
+		</Replace>
+		<Replace Tag="LOC_Sammaye_YnAMPEnormousEarth_Map_DESC" Language="en_US"
+>			<Text>YnAMP Enormous Earth (128x80) by Sammaye</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
