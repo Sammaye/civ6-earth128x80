@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<!-- True Start Locations. You have to fill this in manually -->
+	<StartPosition>
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_CREE"	X="19" Y="59" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_CANADA"	X="29" Y="57" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_CAHOKIA"	X="23" Y="53" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_AMERICA"	X="29" Y="53" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_AZTEC"	X="19" Y="44" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_LA_VENTA"	X="22" Y="42" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_PALENQUE"	X="25" Y="37" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_BRAZIL"	X="36" Y="26" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_INCA"	X="29" Y="23" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_NAZCA"	X="26" Y="25" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_BUENOS_AIRES"	X="37" Y="18" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_MAPUCHE"	X="34" Y="12" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_RAPA_NUI"	X="21" Y="18" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_ARMAGH"	X="50" Y="68" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_SCOTLAND"	X="54" Y="70" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_CARDIFF"	X="52" Y="66" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_ENGLAND"	X="55" Y="64" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_LISBON"	X="49" Y="50" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_SPAIN"	X="53" Y="51" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_GRANADA"	X="53" Y="47" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_FRANCE"	X="58" Y="60" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_GENEVA"	X="60" Y="57" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_BOLOGNA"	X="62" Y="54" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_ROME"	X="62" Y="52" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_BRUSSELS"	X="59" Y="64" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_NETHERLANDS"	X="59" Y="64" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_GERMANY"	X="63" Y="61" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_NORWAY"	X="62" Y="74" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_SWEDEN"	X="66" Y="70" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_VILNIUS"	X="68" Y="64" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_RUSSIA"	X="71" Y="66" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_POLAND"	X="67" Y="60" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_KIEV"	X="72" Y="59" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_HUNGARY"	X="67" Y="56" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_MACEDON"	X="67" Y="51" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_VELLETTA"	X="65" Y="45" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_GREECE"	X="68" Y="47" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_OTTOMAN"	X="71" Y="51" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_HATTUSA"	X="74" Y="51" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_SCYTHIA"	X="82" Y="61" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_GEORGIA"	X="78" Y="55" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_MONGOLIA"	X="99" Y="59" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_YEREVAN"	X="79" Y="53" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_AKKAD"	X="78" Y="49" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_PERSIA"	X="80" Y="49" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_BABLYON"	X="80" Y="48" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_SUMERIA"	X="80" Y="46" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_ANTIOCH"	X="76" Y="48" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_JERUSALEM"	X="75" Y="45" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_MUSCAT"	X="85" Y="39" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_ARABIA"	X="77" Y="38" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_EGYPT"	X="72" Y="38" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_NUBIA"	X="73" Y="32" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_PHOENICIA"	X="59" Y="45" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_FEZ"	X="53" Y="43" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_MALI"	X="56" Y="36" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_KUMASI"	X="58" Y="32" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_NGAZARGAMU"	X="63" Y="30" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_KONGO"	X="68" Y="29" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_ZANZIBAR"	X="74" Y="25" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_ZULU"	X="71" Y="16" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_ANTANANARIVO"	X="76" Y="17" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_KABUL"	X="87" Y="53" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_MOHENJO-DARO"	X="87" Y="45" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_INDIA"	X="94" Y="46" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_KANDY"	X="95" Y="30" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_KOREA"	X="113" Y="54" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_JAPAN"	X="119" Y="53" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_CHINA"	X="107" Y="54" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_HONG_KONG"	X="110" Y="46" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_KHMER"	X="102" Y="45" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_INDONESIA"	X="104" Y="30" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_BANDAR_BRUNEI"	X="109" Y="34" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_NAN_MADOL"	X="125" Y="37" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_AUSTRALIA"	X="117" Y="12" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_MAORI"	X="124" Y="7" />
+		<Replace MapName="Sammaye_YnAMPEarth----x--_Map" Civilization ="CIVILIZATION_AUCKLAND"	X="126" Y="12" />
+	</StartPosition>
+
+	<!-- Real City Naming. You have to fill this in manually -->
+	<!--
+		* CityLocaleName must have a matching entry in MapText.xml
+		* Area is by default 1 (i.e. a radius of 1, i.e. one center tile and six surrounding tiles.
+		  A radius of 2 adds yet another 12 surrounding tiles. A radius of 0 is only 1 tile)
+		* Civilization should only have a value if a name applies to only one civ. I.e. a tile can
+		  have multiple entries for different civs, such as "London" as a standard value for London,
+		  but "Londres" for France or "Londinium" for Rome
+	-->
+	<CityMap>
+		<!--<Replace MapName="Sammaye_YnAMPEarth----x--_Map" X="0" Y="0" CityLocaleName="LOC_CITY_NAME_Sammaye_YnAMPEarth----x--_Map_SOME_CITY_NAME" Area="1" Civilization="CIVILIZATION_AMERICA"/>-->
+	</CityMap>
+</GameData>

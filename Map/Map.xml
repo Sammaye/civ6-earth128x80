@@ -66,7 +66,7 @@
 		<Replace MapName="Sammaye_YnAMPEarth---x--_Map" Civilization ="CIVILIZATION_ZULU"	X="71" Y="16" />
 		<Replace MapName="Sammaye_YnAMPEarth---x--_Map" Civilization ="CIVILIZATION_ANTANANARIVO"	X="76" Y="17" />
 		<Replace MapName="Sammaye_YnAMPEarth---x--_Map" Civilization ="CIVILIZATION_KABUL"	X="87" Y="53" />
-		<Replace MapName="Sammaye_YnAMPEarth---x--_Map" Civilization ="CIVILIZATION_MOHENJO-DARO"	X="87" Y="45" />
+		<Replace MapName="Sammaye_YnAMPEarth---x--_Map" Civilization ="CIVILIZATION_MOHENJO_DARO"	X="87" Y="45" />
 		<Replace MapName="Sammaye_YnAMPEarth---x--_Map" Civilization ="CIVILIZATION_INDIA"	X="94" Y="46" />
 		<Replace MapName="Sammaye_YnAMPEarth---x--_Map" Civilization ="CIVILIZATION_KANDY"	X="95" Y="30" />
 		<Replace MapName="Sammaye_YnAMPEarth---x--_Map" Civilization ="CIVILIZATION_KOREA"	X="113" Y="54" />
