@@ -77,9 +77,9 @@
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_KHMER"	X="102" Y="45" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_INDONESIA"	X="104" Y="30" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_BANDAR_BRUNEI"	X="109" Y="33" />
+		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_MAORI"	X="122" Y="32" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_NAN_MADOL"	X="125" Y="37" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_AUSTRALIA"	X="117" Y="12" />
-		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_MAORI"	X="124" Y="7" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_AUCKLAND"	X="126" Y="12" />
 	</StartPosition>
 
