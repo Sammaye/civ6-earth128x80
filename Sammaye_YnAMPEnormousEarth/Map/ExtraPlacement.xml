@@ -2,7 +2,7 @@
 <GameData>
 	<ExtraPlacement>
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" X="126" Y="11" RuleSet="RULESET_EXPANSION_2" TerrainType="TERRAIN_GRASS_MOUNTAIN" FeatureType="FEATURE_VOLCANO" />
-		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" X="102" Y="45" RuleSet="RULESET_EXPANSION_2" TerrainType="TERRAIN_GRASS_MOUNTAIN" FeatureType="FEATURE_VOLCANO" />
+		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" X="103" Y="41" RuleSet="RULESET_EXPANSION_2" TerrainType="TERRAIN_GRASS_MOUNTAIN" FeatureType="FEATURE_VOLCANO" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" X="32" Y="16" RuleSet="RULESET_EXPANSION_2" TerrainType="TERRAIN_PLAINS_MOUNTAIN" FeatureType="FEATURE_VOLCANO" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" X="17" Y="54" RuleSet="RULESET_EXPANSION_2" TerrainType="TERRAIN_DESERT_MOUNTAIN" FeatureType="FEATURE_VOLCANO" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" X="26" Y="31" RuleSet="RULESET_EXPANSION_2" TerrainType="TERRAIN_GRASS_MOUNTAIN" FeatureType="FEATURE_VOLCANO" />

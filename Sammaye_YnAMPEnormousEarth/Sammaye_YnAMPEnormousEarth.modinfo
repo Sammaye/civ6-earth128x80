@@ -14,8 +14,16 @@ Changes:
  - Added grassland to parts of Arabia and Israel/Palestine
  
  [07/08/2019]
- - Made the desert less... Dead. I add cattle and sheep to oasis tiles, this is much more like it is in real life. I also added some grassland in east Yemen and West Oman to represent a river that flows through there and provides farmland to that area. The map is too small for the river so I added three small tiles of grassland with one source of cattle.
- - Moved the Maori start location. Even though Maori are considered native to New Zealand they didn't actually reach there until 1200AD, as such they start further up North in the sea really.
+ - Made the desert less... Dead. I add cattle and sheep to oasis tiles, this is much more like it is in real life. I also added some grassland in east Yemen and West Oman to represent a river that flows through there and provides farmland to that area. The map is too small for the river so I added three small tiles of grassland with one source of cattle
+ - Moved the Maori start location. Even though Maori are considered native to New Zealand they didn't actually reach there until 1200AD, as such they start further up North in the sea really
+ 
+ [08/08/2019]
+ - Reverted some of the changes I did to Arabia; I removed a row of grass tiles on the Makkan side and a single grass tile for near Basra and one from Oman, which also had a forest on it
+ - Added a reef to Yemen since they have some of the best reef formations in the South Red Sea, and also added an extra fish tile
+ - Added three more tiles of fish in and around southern Arabia to offset the desert
+ - Added two tiles of fish to Gulf of California and three tiles of plains to make settling a city there less pointless, on Google Earth it is desert sparsed with grassland so it makes sense; kept the mountain since it is actually there
+ - Fixed bug with Khmer starting in a volcano and so not spawning, moved the volcano south to better represent real life
+ - Added a reef and horse resource to the desert in South Africa, this should make the place a bit more lucrative for the iron and uranium resources
 
 Caveats:
  - If you place a city state close to another or too near a civ it will spawn in a random place on the map, common culprits are: Maltan, Central European and Persian (Iraqi) city states. Sometimes whether or not a city state will work can be pot luck, I can get Akkad to sometimes work but not always. So, have a play around and see what works. This does not apply to civs, you can have Sumeria and Persia spawn on adjacent tiles just for fun
