@@ -7,6 +7,7 @@
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_CANADA"	X="29" Y="57" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_CAHOKIA"	X="23" Y="53" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_AMERICA"	X="29" Y="53" />
+		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_MEXICO_CITY"	X="19" Y="43" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_AZTEC"	X="19" Y="44" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_LA_VENTA"	X="22" Y="42" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_PALENQUE"	X="25" Y="37" />
@@ -27,6 +28,7 @@
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_GENEVA"	X="60" Y="57" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_BOLOGNA"	X="62" Y="54" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_ROME"	X="62" Y="52" />
+		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_VALLETTA"	X="65" Y="45" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_BRUSSELS"	X="59" Y="64" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_NETHERLANDS"	X="59" Y="64" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_GERMANY"	X="63" Y="61" />
@@ -71,6 +73,7 @@
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_INDIA"	X="94" Y="46" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_KANDY"	X="95" Y="30" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_KOREA"	X="113" Y="54" />
+		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_SEOUL"	X="112" Y="55" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_JAPAN"	X="119" Y="53" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_CHINA"	X="107" Y="54" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_HONG_KONG"	X="110" Y="46" />

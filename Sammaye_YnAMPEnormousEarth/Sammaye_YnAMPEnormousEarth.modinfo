@@ -24,6 +24,9 @@ Changes:
  - Added two tiles of fish to Gulf of California and three tiles of plains to make settling a city there less pointless, on Google Earth it is desert sparsed with grassland so it makes sense; kept the mountain since it is actually there
  - Fixed bug with Khmer starting in a volcano and so not spawning, moved the volcano south to better represent real life
  - Added a reef and horse resource to the desert in South Africa, this should make the place a bit more lucrative for the iron and uranium resources
+ 
+ [09/08/2019]
+ - Added missing Valletta, Seoul and Mexico City starting locations to complete the city state list
 
 Caveats:
  - If you place a city state close to another or too near a civ it will spawn in a random place on the map, common culprits are: Maltan, Central European and Persian (Iraqi) city states. Sometimes whether or not a city state will work can be pot luck, I can get Akkad to sometimes work but not always. So, have a play around and see what works. This does not apply to civs, you can have Sumeria and Persia spawn on adjacent tiles just for fun
