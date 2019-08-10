@@ -34,7 +34,7 @@
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_GERMANY"	X="63" Y="61" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_NORWAY"	X="62" Y="74" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_SWEDEN"	X="66" Y="70" />
-		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_VILNIUS"	X="68" Y="64" />
+		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_VILNIUS"	X="68" Y="62" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_RUSSIA"	X="71" Y="66" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_POLAND"	X="67" Y="60" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" Civilization ="CIVILIZATION_KIEV"	X="72" Y="59" />
