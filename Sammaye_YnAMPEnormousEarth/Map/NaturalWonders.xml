@@ -31,10 +31,10 @@
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" X="111" Y="33" FeatureType="FEATURE_CHOCOLATEHILLS" TerrainType="TERRAIN_GRASS" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" X="112" Y="33" FeatureType="FEATURE_CHOCOLATEHILLS" TerrainType="TERRAIN_GRASS" />
 	
-		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" X="33" Y="33" FeatureType="FEATURE_RORAIMA" TerrainType="TERRAIN_GRASS" />
-		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" X="33" Y="34" FeatureType="FEATURE_RORAIMA" TerrainType="TERRAIN_GRASS" />
-		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" X="34" Y="34" FeatureType="FEATURE_RORAIMA" TerrainType="TERRAIN_GRASS" />
-		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" X="33" Y="35" FeatureType="FEATURE_RORAIMA" TerrainType="TERRAIN_GRASS" />
+		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" X="33" Y="33" FeatureType="FEATURE_RORAIMA" TerrainType="TERRAIN_GRASS_HILLS" />
+		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" X="33" Y="34" FeatureType="FEATURE_RORAIMA" TerrainType="TERRAIN_GRASS_HILLS" />
+		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" X="34" Y="34" FeatureType="FEATURE_RORAIMA" TerrainType="TERRAIN_GRASS_HILLS" />
+		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" X="34" Y="35" FeatureType="FEATURE_RORAIMA" TerrainType="TERRAIN_GRASS_HILLS" />
 		
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" X="49" Y="35" FeatureType="FEATURE_LAKE_RETBA" TerrainType="TERRAIN_COAST" />
 		<Replace MapName="Sammaye_YnAMPEnormousEarth_Map" X="50" Y="35" FeatureType="FEATURE_LAKE_RETBA" TerrainType="TERRAIN_COAST" />

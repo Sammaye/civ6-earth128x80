@@ -3,7 +3,7 @@
 	<Properties>
 		<Name>Sammaye's YnAMP Earth128x80 (Modified)</Name>
 		<Description>My own personal version of the converted Earth128x80 map. I decided to release this as a new mod since it contains a few changes.
-		
+
 Changes:
  - Grassland across all of North African coast
  - Himalayas opened up for awesome mountain battles while also expanding the mountain border of Bangladesh to protect from the Chinese on that side
@@ -21,7 +21,7 @@ Changes:
  - Reverted some of the changes I did to Arabia; I removed a row of grass tiles on the Makkan side and a single grass tile for near Basra and one from Oman, which also had a forest on it
  - Added a reef to Yemen since they have some of the best reef formations in the South Red Sea, and also added an extra fish tile
  - Added three more tiles of fish in and around southern Arabia to offset the desert
- - Added two tiles of fish to Gulf of California and three tiles of plains to make settling a city there less pointless, on Google Earth it is desert sparsed with grassland so it makes sense; kept the mountain since it is actually there
+ - Added two tiles of fish to Gulf of California and three tiles of plains to make settling a city there less pointless, on Google Earth it is desert interspersed with grassland so it makes sense; kept the mountain since it is actually there
  - Fixed bug with Khmer starting in a volcano and so not spawning, moved the volcano south to better represent real life
  - Added a reef and horse resource to the desert in South Africa, this should make the place a bit more lucrative for the iron and uranium resources
  
@@ -39,10 +39,22 @@ Changes:
  
  [10/082019]
  - Moved Vilnius south by 2 tiles to Lithuania  
+ 
+ [13/08/2019]
+ - Fixed Roraima not displaying
+ - Added a little more oil to Nigeria, they are the largest oil producer in Africa, and 6th in the world
+ - Removed a duplicate copy of the map from the lua, put there by the converter
+ - Removed outdated and unused lowlands name option
+ - Checked using map generator for rainfall, it works
+ - Moar oil in Australia because trillions of dollars worth has been found there
+ - Fixed how the mod is defined to stop the double map entry
 
 Caveats:
  - If you place a city state close to another or too near a civ it will spawn in a random place on the map, common culprits are: Maltan, Central European and Persian (Iraqi) city states. Sometimes whether or not a city state will work can be pot luck, I can get Akkad to sometimes work but not always. So, have a play around and see what works. This does not apply to civs, you can have Sumeria and Persia spawn on adjacent tiles just for fun
  - This map has been converted a few times using the YnAMP map converter, which... Well, is Beta. If you spot map errors let me know and I will manually fix it in the lua (no joke, had to for quite a few tiles)
+ - Using map generator for rainfall will result in some parts of the map not yielding food and resources right, such as lower parts of Egypt where the map generator wants to remove all floodplains, it will remove and replace all features: forest, jungle and oasis tiles will be victim
+ 
+Note: due to a bug when using numbers in the YnAMP BitMap Converter this map is actually named "YnAMP Enormous Earth" in your maps list.
 
 Don't ask me about name labels and stuff, I really dunno how that works or how to change it.</Description>
 		<Teaser>My own personal version of the converted Earth128x80 map with some changes I prefer</Teaser>
